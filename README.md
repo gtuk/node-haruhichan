@@ -25,6 +25,7 @@ haruhichan.searchAnimes('0', 'TV', 'rank', 'asc', '', 'Hunter', '50', function(r
 ```
 
 Parameters (order is important):
+
 page = 0 -
 
 type = TV, Movie
@@ -38,5 +39,6 @@ genre = Action, Adventure, Cars, Comedy, Dementia, Demons, Drama, Ecchi, Fantasy
 keywords =
 
 limit = 1 -
+
 
 For more examples see examples folder
