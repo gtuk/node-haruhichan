@@ -1,0 +1,27 @@
+{
+    "name": "node-haruhichan",
+    "version": "0.0.1",
+    "description": "Node.js haruhichan API",
+    "main": "haruhichan.js",
+    "keywords": [
+        "haruhichan",
+        "torrents",
+        "animes",
+        "anime",
+        "movie",
+        "tv",
+        "japanese"
+    ],
+    "author": {
+        "name": "gtuk"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/gtuk/node-haruhichan.git"
+    },
+    "homepage": "https://github.com/gtuk/node-haruhichan.git",
+    "license": "ISC",
+    "dependencies": {
+        "request": "~2.40.0"
+    }
+}
