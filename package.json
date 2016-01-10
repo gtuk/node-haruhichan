@@ -1,6 +1,6 @@
 {
     "name": "node-haruhichan",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Node.js haruhichan API",
     "main": "haruhichan.js",
     "keywords": [
@@ -22,6 +22,6 @@
     "homepage": "https://github.com/gtuk/node-haruhichan.git",
     "license": "ISC",
     "dependencies": {
-        "request": "~2.40.0"
+        "request": "~2.67.0"
     }
 }
